@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyProject</string>
+
+    <string name="acquire_weather">获取天气信息</string>
+</resources>
